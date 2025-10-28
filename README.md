@@ -1,4 +1,4 @@
-# CodeStream: Seamless GitHub Integration
+# Human Centered Design: Innovation Engine
 
 A minimalist web application for securely connecting and visualizing your GitHub account information.
 
